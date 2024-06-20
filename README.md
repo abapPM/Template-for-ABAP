@@ -1,6 +1,6 @@
 ![Version](https://img.shields.io/endpoint?url=https://shield.abap.space/version-shield-json/github/abapPM/ABAP-XXX/src/zcl_XXX.clas.abap/c_version&label=Version&color=blue)
 
-[![License](https://img.shields.io/github/license/abapPM/ABAP-XXX?label=License&color=green)](LICENSE)
+[![License](https://img.shields.io/github/license/abapPM/ABAP-XXX?label=License&color=success)](LICENSE)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg?color=green)](https://github.com/abapPM/.github/blob/main/CODE_OF_CONDUCT.md)
 [![REUSE Status](https://api.reuse.software/badge/github.com/abapPM/ABAP-XXX)](https://api.reuse.software/info/github.com/abapPM/ABAP-XXX)
 
@@ -34,11 +34,11 @@ All contributions are welcome! Read our [Contribution Guidelines](CONTRIBUTING.m
 
 You can install the developer version of ABAP XXX using [abapGit](https://github.com/abapGit/abapGit) either by creating a new online repository for https://github.com/abapPM/ABAP-XXX.
 
-Recommended SAP package: `$XXX`.
+Recommended SAP package: `$XXX`
 
 ## About
 
-Made with :heart: in Canada
+Made with ❤️ in Canada
 
 Copyright 2024 apm.to Inc. <https://apm.to>
 
