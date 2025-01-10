@@ -16,11 +16,15 @@ NO WARRANTIES, [MIT License](https://github.com/abapPM/ABAP-XXX/blob/main/LICENS
 
 ## Prerequisites
 
-SAP Basis 7.40 or higher
+SAP Basis 7.50 or higher
 
 ## Installation
 
-Import ABAP XXX to your project using [apm](https://abappm.com).
+Install `xxx` as a global module in your system using [apm](https://abappm.com).
+
+or
+
+Specify the `xxx` module as a dependency in your project and import it to your namespace using [apm](https://abappm.com).
 
 ```abap
 IMPORT '*' TO 'z$1_your_project$2' FROM 'xxx'.
@@ -42,4 +46,4 @@ Made with ❤️ in Canada
 
 Copyright 2024 apm.to Inc. <https://apm.to>
 
-Follow [@marcfbe](https://twitter.com/marcfbe) on X/Twitter or [marcfbe](https://linkedin.com/in/marcfbe) or LinkedIn
+Follow [@marcf.be](https://bsky.app/profile/marcf.be) on Blueksy or [marcfbe](https://linkedin.com/in/marcfbe) or LinkedIn
