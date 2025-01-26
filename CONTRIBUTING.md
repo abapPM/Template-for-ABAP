@@ -34,8 +34,6 @@ A good bug report should not leave others needing to chase you up for more infor
 
 apm is targeted for SAP Basis 7.50 and higher, so the code should only contain expressions and statements that work on 7.50. abaplint will automatically check every pull request for language syntax that is not available on these releases.
 
-Lower releases might be supported using an automated downport.
-
 ### Linting
 
 Pull requests are checked using [abaplint](https://abaplint.org) and must pass all configured [checks](../../abaplint.json) before they can be merged.
@@ -46,7 +44,7 @@ Use pretty printer, keywords upper case + indentation.
 
 ### Prefixing
 
-apm does not use prefixing (hungarian notation) of variable names.
+apm does *not* use prefixing (hungarian notation) of variable names.
 
 ### Internationalization (I18N)
 
