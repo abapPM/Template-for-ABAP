@@ -1,4 +1,4 @@
-![Version](https://img.shields.io/endpoint?url=https://shield.abappm.com/github/abapPM/{{repo}}/src/zcl_{{module}}.clas.abap/c_version&label=Version&color=blue)
+![Version](https://img.shields.io/endpoint?url=https://shield.abappm.com/github/abapPM/{{repo}}/src/%2523apmg%2523cl_{{module}}.clas.abap/c_version&label=Version&color=blue)
 
 [![License](https://img.shields.io/github/license/abapPM/{{repo}}?label=License&color=success)](https://github.com/abapPM/{{repo}}/blob/main/LICENSE)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg?color=success)](https://github.com/abapPM/.github/blob/main/CODE_OF_CONDUCT.md)
@@ -12,7 +12,7 @@ NO WARRANTIES, [MIT License](https://github.com/abapPM/{{repo}}/blob/main/LICENS
 
 ## Usage
 
-...
+Not documented yet
 
 ## Prerequisites
 
@@ -32,7 +32,7 @@ All contributions are welcome! Read our [Contribution Guidelines](https://github
 
 You can install the developer version of ABAP {{package}} using [abapGit](https://github.com/abapGit/abapGit) by creating a new online repository for `https://github.com/abapPM/{{repo}}`.
 
-Recommended SAP package: `{{package}}`
+Recommended SAP package: `/APMG/{{package}}`
 
 ## About
 
