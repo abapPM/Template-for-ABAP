@@ -100,11 +100,13 @@
     "forbidden_void_type": {
       "check": [
         "^STRINGTAB$",
-        "^CHAR[0-9]+$",
+        "^CHAR\d+$",
         "^INT4$",
         "^RS_C_TRUE$",
         "^RS_C_FALSE$",
         "^FLAG$",
+        "^NUMC\d+$",
+        "^SYCHAR\d+$",
         "^SYDATUM$",
         "^SYINDEX$",
         "^SYTABIX$",
@@ -291,6 +293,7 @@
     "use_new": true,
     "when_others_last": true,
     "whitespace_end": true,
+    "xml_bom": true,
     "xml_consistency": true
   },
   "syntax": {
